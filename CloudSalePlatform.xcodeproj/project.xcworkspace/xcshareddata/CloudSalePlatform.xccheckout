@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5224040-7876-44C3-A055-7567613C1C2B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CloudSalePlatform</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFDA5E4DAE3E58E4326E22E377B86FB807FBC80F</key>
+		<string>code.cloudvast.com:cloudunionIos</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CloudSalePlatform.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFDA5E4DAE3E58E4326E22E377B86FB807FBC80F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>code.cloudvast.com:cloudunionIos</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFDA5E4DAE3E58E4326E22E377B86FB807FBC80F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFDA5E4DAE3E58E4326E22E377B86FB807FBC80F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cloudunionIos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
